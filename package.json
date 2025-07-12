@@ -1,0 +1,18 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "jerome portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "designer",
+    "web_developper",
+    "frontend developper",
+    "backend developper",
+    
+  ],
+  "author": "monami jerome",
+  "license": "ISC"
+}
