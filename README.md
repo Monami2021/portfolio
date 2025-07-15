@@ -14,15 +14,8 @@ Each project folder contains:
 
 Some of the tools and languages you'll find here:
 - HTML, CSS, JavaScript
-- React, Node.js
-- Python, Flask, Django
 - Git & GitHub
-- Other frameworks and libraries
-
-## 🏆 Highlights
-
-- [Project Name 1](#): Brief description or achievement.
-- [Project Name 2](#): Brief description or achievement.
+- Bootstrap, jquery
 
 ## 📄 How to Use
 
